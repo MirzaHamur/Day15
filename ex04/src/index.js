@@ -10,5 +10,6 @@ function myArr(mili) {
  // Only change code above this line
  return mili;
 }
+
 console.log(myArr(milili)); // Change this line
 module.exports = myArr;
